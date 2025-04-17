@@ -1,0 +1,35 @@
+.register{
+    padding: 72px 0 112px;
+ 
+min-height: 100vh; 
+background-color: #f2f4f7;
+width: 100%;
+}
+.register-container{
+    width: 980px;
+    margin: 0 auto;
+    padding: 20px 0;
+    display: flex;
+}
+.register__left{
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    padding-top: 72px;
+}
+.register__right{
+    width: 40%;
+}
+.register__logo{
+    font-size: 80px;
+    line-height: 1;
+  }
+  #vibe{
+color: #16A34A;
+  }
+  #hive{color: #faa346;
+  }
+  .register__slogan{
+    letter-spacing: 20px;
+    color: #0f6830;
+  }

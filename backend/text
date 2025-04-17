@@ -1,0 +1,48 @@
+ "email": "admin1@example.com",
+  "password": "adminŞifrəsi123"
+
+    "email": "alibi1@example.com",
+      "password": "alibi1"
+
+
+      "email": "test1@example.com",
+      "password": "test1"  
+      67b783fce167ad9db158af12
+      
+  [
+    {
+      "_id": "67b61aa9f124e8583f0dcea8",
+      "fullName": "Anar1234",
+      "email": "anar@example.com",
+      "password": "$2b$10$09lv1yaHhV7qnqIvOfJ6eOfdWmIAoaxXum8cWmzFgEhX31kKK1Ezu",
+      "role": "admin",
+      "__v": 0
+    },
+    {
+      "_id": "67b620f3d849d9741fc79496",
+      "fullName": "Fuad",
+      "email": "fuad@example.com",
+      "password": "$2b$10$iIkMUvp0q53OvxxldkMLDejgfRyLCQbyNMHf8T2VJtTS152BkosFW",
+      "role": "person",
+      "__v": 0
+    },
+    {
+      "_id": "67b6216ad849d9741fc7949a",
+      "fullName": "Alibi",
+      "email": "alibi@example.com",
+      "password": "$2b$10$DyWGyYFfDiFWHL3jpG8KQOxCLdiPphBYhPnqtaI0PBRpJAzcX/8Wq",
+      "role": "venue",
+      "address": "yasamal",
+      "phone": "0070",
+      "workingHours": "allday",
+      "__v": 0
+    },
+    {
+      "_id": "67b780bbe167ad9db158af08",
+      "fullName": "boss",
+      "email": "admin1@example.com",
+      "password": "$2b$10$HKSqdm.7q/20ZT4LomKNOO0A8CmGq2FsUpM5nDbmrr/hqwcK7r.pO",
+      "role": "admin",
+      "__v": 0
+    }
+  ]
